@@ -15,6 +15,5 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if string.LowerCase()
   return ('I can\'t hear you!')
 }
